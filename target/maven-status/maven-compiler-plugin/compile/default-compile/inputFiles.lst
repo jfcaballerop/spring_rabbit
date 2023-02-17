@@ -1,1 +1,5 @@
 /home/jfcaballero/Workspace/SpringsProjects/rabbitdemo2/rabbitdemo/src/main/java/com/mrknight/rabbitdemo/RabbitdemoApplication.java
+/home/jfcaballero/Workspace/SpringsProjects/rabbitdemo2/rabbitdemo/src/main/java/com/mrknight/rabbitdemo/services/QueuesService.java
+/home/jfcaballero/Workspace/SpringsProjects/rabbitdemo2/rabbitdemo/src/main/java/com/mrknight/rabbitdemo/configuration/Constants.java
+/home/jfcaballero/Workspace/SpringsProjects/rabbitdemo2/rabbitdemo/src/main/java/com/mrknight/rabbitdemo/configuration/RabbitConfiguration.java
+/home/jfcaballero/Workspace/SpringsProjects/rabbitdemo2/rabbitdemo/src/main/java/com/mrknight/rabbitdemo/controller/MessageController.java

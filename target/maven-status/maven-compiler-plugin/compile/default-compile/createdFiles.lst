@@ -1,1 +1,5 @@
+com/mrknight/rabbitdemo/controller/MessageController.class
+com/mrknight/rabbitdemo/configuration/Constants.class
+com/mrknight/rabbitdemo/services/QueuesService.class
+com/mrknight/rabbitdemo/configuration/RabbitConfiguration.class
 com/mrknight/rabbitdemo/RabbitdemoApplication.class
