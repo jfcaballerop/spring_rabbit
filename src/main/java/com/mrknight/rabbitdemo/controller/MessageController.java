@@ -14,9 +14,14 @@ public class MessageController {
   @Autowired
   QueuesService service;
 
-  @PostMapping("/")
+  @PostMapping("/test/")
   String sendMessage(@RequestBody String msg) {
-    return service.sendMsg(msg);
+    return service.sendTestMsg(msg);
+  }
+
+  @PostMapping("/laliga/marcador/")
+  String sendMarcadoresMessage(@RequestBody String msg) {
+    return service.sendMarcadorMsg(msg);
   }
 
 }
